@@ -1,0 +1,4 @@
+Plaintext
+SISTEMA DE RECOMENDACIONES - BIBLIOTECA FP
+Funcionalidad en desarrollo.
+Recomendaciones iniciales: Don Quijote; La Celestina; El Lazarillo de Tormes.
